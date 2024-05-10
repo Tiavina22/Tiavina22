@@ -1,8 +1,8 @@
 
 ![astronaute](https://github.com/Tiavina22/Tiavina22/assets/80424305/37b1e0af-0ca0-4b0d-8975-2b9a7d285f8d)
 
-Hello 👋, I'm Tiavina Ramilison🇲🇬
-<div style="width=200px; heigth=5px; background-color: #fff;"></div>
+                    Hello 👋, I'm Tiavina Ramilison🇲🇬
+
 I love to simplify and create user-friendly tools.
 
 - 👋 Hi, I’m @Tiavina Ramilison
