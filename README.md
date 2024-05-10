@@ -5,6 +5,8 @@
                     ------------------------------------------------------
 🌟 Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀
 
+<h1>Who I am ?</h1>
+
  * 👨‍💻 Computer Science student, specializing in Software Engineering and Database
  * 📱 Passionate about Android mobile development
  * 💻 Proficient in both Frontend and Backend
