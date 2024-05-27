@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **tiavinaramilison22@gmail.com**
 
-- ⚡ Fun fact **💻 Fullstack IT de Madagascar, Astronaute en Flutter, Dart, PHP, JavaScript, Node.js et MySQL. Passionné de Linux et de tech business. Prêt pour l'action ! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
