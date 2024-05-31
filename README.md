@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=160&section=header&text=Tsara%20zalahy%20manimanina%20e%2C%20misaotra%20mamangy%20&fontSize=20" />
-<p align=center>  <strong> 🇲🇬 Akory e 👋 🇲🇬 </strong> <p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=160&section=header&text=Bienvenue%20zalahy%20Welcome%20e%2C%20misaotra%20Tongasoa%20&fontSize=20" />
+<p align=center>  <strong> 🇲🇬 Mbola tsara e!! 👋 🇲🇬 </strong> <p>
 
 <p align="center">Hi 👋, I'm Tiavina Ramilison</p>
 <p align="center">Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</p>
