@@ -10,24 +10,7 @@
   </p>
   
   
-<p align='center'>
-  <img alt='Python' src='https://img.shields.io/badge/Python-008080?style=for-the-badge&logo=python&logoColor=white'/>
-  <img alt='Dart' src='https://img.shields.io/badge/Dart-008080?style=for-the-badge&logo=dart&logoColor=white'/>
-  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-008080?style=for-the-badge&logo=javascript&logoColor=white'/>
-  <img alt='PHP' src='https://img.shields.io/badge/PHP-008080?style=for-the-badge&logo=php&logoColor=white'/>
-  <img alt='BASH' src='https://img.shields.io/badge/bash-008080?style=for-the-badge&logo=linux&logoColor=white'/>
-</p>
 
-<p align='center'>
-  <img alt='Arch Linux' src='https://img.shields.io/badge/Arch_Linux-008080?style=for-the-badge&logo=arch-linux&logoColor=white'/>
-  <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-008080?style=for-the-badge&logo=ubuntu&logoColor=white'/>
-  </br>
-<p> 
- <br/>
-
-<p align=center>  <strong>
-<img src='https://komarev.com/ghpvc/?username=tiavina22&color=008080'>
-</strong> <p>
 
 ---
 
