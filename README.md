@@ -33,13 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiavina22&show_icons=true&locale=en&layout=compact" alt="tiavina22" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiavina22&show_icons=true&locale=en" alt="tiavina22" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiavina22&" alt="tiavina22" />
-</p>
 
 - 💬 Ask me about **👨‍💻 Computer Science student, specializing in Software Engineering and Database,📱 Passionate about Android mobile development 💻 Proficient in both Frontend and Backend 🚀 Dev Flutter and Dart 💼 Attracted to business development and the role of Product Owner 🛠️ Enthusiast of DevOps philosophy 🐘 Prefers MySQL as a database 🔧 Comfortable with PHP, Node.js, and JavaScript 🐍 Familiar with Java and Python 🖥️ Loyal user of Linux Ubuntu 🌱 Always creating something for myself and others**
 
