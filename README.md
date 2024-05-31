@@ -5,7 +5,7 @@
 <p align="center">Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</p>
 
 
-<p align="left">Languages and Tools:</p>
+<p align="left">Languages and Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
@@ -18,6 +18,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
+</p>
+
 
 
 
