@@ -1,7 +1,8 @@
-![astronaute](https://github.com/Tiavina22/Tiavina22/assets/80424305/37b1e0af-0ca0-4b0d-8975-2b9a7d285f8d)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=160&section=header&text=Tsara%20zalahy%20manimanina%20e%2C%20misaotra%20mamangy%20&fontSize=20" />
+<p align=center>  <strong> 🇲🇬 Akory e 👋 🇲🇬 </strong> <p>
 
 <h1 align="center">Hi 👋, I'm Tiavina Ramilison</h1>
-<h3 align="center">🇲🇬 Je suis Malagasy et Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</h3>
+<h3 align="center">Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiavina22&label=Profile%20views&color=0e75b6&style=flat" alt="tiavina22" /> </p>
 
@@ -32,8 +33,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiavina22&show_icons=true&locale=en&layout=compact" alt="tiavina22" />
 </p>
-
-
-- 💬 Ask me about **👨‍💻 Computer Science student, specializing in Software Engineering and Database,📱 Passionate about Android mobile development 💻 Proficient in both Frontend and Backend 🚀 Dev Flutter and Dart 💼 Attracted to business development and the role of Product Owner 🛠️ Enthusiast of DevOps philosophy 🐘 Prefers MySQL as a database 🔧 Comfortable with PHP, Node.js, and JavaScript 🐍 Familiar with Java and Python 🖥️ Loyal user of Linux Ubuntu 🌱 Always creating something for myself and others**
-
-- 📫 How to reach me **tiavinaramilison22@gmail.com**
