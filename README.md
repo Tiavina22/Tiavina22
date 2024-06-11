@@ -25,6 +25,4 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiavina22&show_icons=true&locale=en&layout=compact" alt="tiavina22" />
-</p>
+
