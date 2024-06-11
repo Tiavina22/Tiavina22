@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=160&section=header&text=%20%20%20%2C%20%20Tongasoa%20&fontSize=20" />
-<p align=center>  <strong> 🇲🇬 Mbola tsara e!! 👋 🇲🇬 </strong> <p>
-<p align="center">Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</p>
-
+<p>  <strong> 🇲🇬 Mbola tsara e!! 👋 🇲🇬 </strong> <p>
+<p>Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</p>
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
+</p>
 <p>
   <img src="https://camo.githubusercontent.com/a9d5db210f94e76ccfb7d3778b5527d40e2e3a20ca6e35715ea789a40938431d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465" />
   <img src="https://camo.githubusercontent.com/950cac8c1a6b54373e14ac1c1edd4d8a5054856850feecf4d6fd9c88ae274f0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465" />
