@@ -8,7 +8,7 @@
 <p align="left">Languages and Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
+  <img src="https://camo.githubusercontent.com/950cac8c1a6b54373e14ac1c1edd4d8a5054856850feecf4d6fd9c88ae274f0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465" />
   
  <img src="https://camo.githubusercontent.com/8a52ed050d6f99c85d79c104d8e517dd282656723116c8c6d735cb7674ff7028/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
