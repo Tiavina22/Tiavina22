@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7100:008080&fontColor=dedede&height=160&section=header&text=%20%20%20%2C%20%20Tongasoa%20&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da,7100:008080&fontColor=dedede&height=160&section=header&text=%20%20%20%2C%20%20Tongasoa%20&fontSize=20" />
 <p>  <strong> 🇲🇬 Mbola tsara e!! 👋 🇲🇬 </strong> <p>
 <p>Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</p>
 <p>
