@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da,7100:008080&fontColor=dedede&height=160&section=header&text=%20%20%20%2C%20%20Tongasoa%20&fontSize=20" />
 <p>  <strong> 🇲🇬 Mbola tsara e!! 👋 🇲🇬 </strong> <p>
+  <a href="https://git.io/typing-svg">
+	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40C463&center=true&random=false&width=435&lines=Software+Engineer;1%2B+year+of+Mobile+Development;Madagascar" alt="Typing SVG" />
+	  </a>
 <p>Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</p>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
