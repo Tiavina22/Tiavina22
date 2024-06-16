@@ -6,7 +6,7 @@
 <p> 
     <strong> 🇲🇬 Mbola tsara e! 👋 🇲🇬 </strong> 
 </p>
-<p>Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</p>
+<p>Passionné par le développement mobile. Let's make tech user-friendly! 🚀</p>
 <p>
 <table>
 	<tr height="54">
