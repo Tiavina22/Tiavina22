@@ -4,11 +4,10 @@
     </a>
 </p>
 <p> 
-    <strong> 🇲🇬 Mbola tsara e!! 👋 🇲🇬 </strong> 
+    <strong> 🇲🇬 Mbola tsara e! 👋 🇲🇬 </strong> 
 </p>
 <p>Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</p>
 <p>
-<h2>🛠️ Tech, tools & skills</h2>
 <table>
 	<tr height="54">
 		<td>
