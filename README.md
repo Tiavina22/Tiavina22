@@ -9,6 +9,81 @@
   
 <p>Passionné par la simplicité et la convivialité des outils que je crée. Let's make tech user-friendly! 🚀</p>
 <p>
+	<h2>🛠️ Tech, tools & skills</h2>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+  <table>
+	<tr height="54">
+		<th align="left">👨‍💻 Programming and Markup Languages</th>
+		<td>
+		   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%20php?logo=php&logoColor=%23fff&color=%23777BB4"></a>
+	      <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-%20js?logo=javascript&logoColor=%23fff&color=%23F7DF1E"></a>
+	      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%20ts?logo=typescript&logoColor=%23fff&color=%233178C6"></a>
+	      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%20py?logo=python&logoColor=%23fff&color=%233776AB"></a>
+	      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%20html?logo=html5&logoColor=%23fff&color=%23E34F26"></a>
+	      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%20css?logo=css3&logoColor=%23fff&color=%231572B6"></a>   
+	      <a href="#"><img alt="markdown" src="https://img.shields.io/badge/markdown-%20css?logo=markdown&logoColor=%23fff&color=%23000000"></a>
+	      <a href="#"><img alt="svg" src="https://img.shields.io/badge/svg-%20css?logo=svg&logoColor=%23fff&color=%23FFB13B"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">📐 Frameworks</th>
+		<td>
+	   		<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20nodedotjs?logo=nodedotjs&logoColor=%23fff&color=%23339933"></a>
+		   <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-%20nodedotjs?logo=symfony&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-%20nestjs?logo=nestjs&logoColor=%23fff&color=%23E0234E"></a>
+			<a href="#"><img alt="NextJs" src="https://img.shields.io/badge/NextJs-%20nextdotjs?logo=nextdotjs&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-%20express?logo=express&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%20express?logo=flask&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="Expo" src="https://img.shields.io/badge/Expo-%20express?logo=expo&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%20express?logo=react&logoColor=%23fff&color=%2361DAFB"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">🛢 Databases</th>
+		<td>
+		  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%20mongodb?logo=mongodb&logoColor=%23fff&color=%2347A248"></a>
+		  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%20mysql?logo=mysql&logoColor=%23fff&color=%234479A1"></a>
+		  <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-%20postgresql?logo=postgresql&logoColor=%23fff&color=%234169E1"></a>
+		  <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-%20elasticsearch?logo=elasticsearch&logoColor=%23fff&color=%23005571"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">🎨 Design</th>
+		<td>
+			<a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%20adobephotoshop?logo=adobephotoshop&logoColor=%23fff&color=%2331A8FF"></a>
+			<a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%20adobeillustrator?logo=adobeillustrator&logoColor=%23fff&color=%23FF9A00"></a>
+			<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%20figma?logo=figma&logoColor=%23fff&color=%23F24E1E"></a>
+			<a href="#"><img alt="InVision" src="https://img.shields.io/badge/InVision-%20invision?logo=invision&logoColor=%23fff&color=%23FF3366"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">👔 UI Components & Styles</th>
+		<td>
+			<a href="#"><img alt="MUI" src="https://img.shields.io/badge/MaterialUI-%20mui?logo=mui&logoColor=%23fff&color=%23007FFF"></a>
+			<a href="#"><img alt="styledcomponents" src="https://img.shields.io/badge/styled components-%20styledcomponents?logo=styledcomponents&logoColor=%23fff&color=%23DB7093"></a>
+			<a href="#"><img alt="antdesign" src="https://img.shields.io/badge/Ant Design-%20antdesign?logo=antdesign&logoColor=%23fff&color=%230170FE"></a>
+			<a href="#"><img alt="jss" src="https://img.shields.io/badge/JSS-%20jss?logo=jss&logoColor=%23fff&color=%23F7DF1E"></a>
+			<a href="#"><img alt="materialdesign" src="https://img.shields.io/badge/Material Design-%20materialdesign?logo=materialdesign&logoColor=%23fff&color=%23757575"></a>
+			<a href="#"><img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%20tailwindcss?logo=tailwindcss&logoColor=%23fff&color=%2306B6D4"></a>
+	   </td>
+	</tr><tr height="54">
+		<th align="left">🧷 Webservices</th>
+		<td>
+			<a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST API-%20rest?logoColor=%23fff&color=%234285F4"></a>
+			<a href="#"><img alt="Parse Server" src="https://img.shields.io/badge/Parse Server-%20parse?logoColor=%23fff&color=%230078D4"></a>
+			<a href="#"><img alt="graphql" src="https://img.shields.io/badge/GraphQL-%20graphql?logo=graphql&logoColor=%23fff&color=%23E10098"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">🌳 OS & Envirenments</th>
+		<td>
+			<a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows 10,11-%20windows?logo=windows&logoColor=%23fff&color=%230078D4"></a>
+			<a href="#"><img alt="macos" src="https://img.shields.io/badge/MacOS-%20macos?logo=macos&logoColor=%23fff&color=%23000000"></a>
+			<a href="#"><img alt="android" src="https://img.shields.io/badge/Android-%20android?logo=android&logoColor=%23fff&color=%233DDC84"></a>
+			<a href="#"><img alt="ios" src="https://img.shields.io/badge/IOS-%20ios?logo=ios&logoColor=%23fff&color=%23000000"></a>
+	   </td>
+	</tr>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
