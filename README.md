@@ -21,7 +21,7 @@
 		<td>
 			<a href="#"><img src="https://camo.githubusercontent.com/bffd3619e9ad6d514ecc44c85593b5d807b074f569226a330f1a93bfd2052be2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465"/></a>
 	   	    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20nodedotjs?logo=nodedotjs&logoColor=%23fff&color=%23339933"></a>
-		    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-%20express?logo=express&logoColor=%23fff&color=%23000000"></a>
+		    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-%20express?logo=express&logoColor=%23fff&color=%23000000"></a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 	   	</td>
 	</tr>
 	<tr height="54">
