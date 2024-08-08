@@ -11,7 +11,7 @@
 <table>
 	<tr height="54">
 		<td>
-			<a href="#"> <img src="https://camo.githubusercontent.com/a9d5db210f94e76ccfb7d3778b5527d40e2e3a20ca6e35715ea789a40938431d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465" /></a> 
+			<a href="#"> <img src="https://camo.githubusercontent.com/a9d5db210f94e76ccfb7d3778b5527d40e2e3a20ca6e35715ea789a40938431d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465" /></a> <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> 
             <a href="#">  <img src="https://camo.githubusercontent.com/950cac8c1a6b54373e14ac1c1edd4d8a5054856850feecf4d6fd9c88ae274f0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465" /></a> 
 	        <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%20html?logo=html5&logoColor=%23fff&color=%23E34F26"></a>
 	        <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%20css?logo=css3&logoColor=%23fff&color=%231572B6"></a> 
