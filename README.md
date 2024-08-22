@@ -3,6 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40C463&center=true&random=false&width=760&lines=Software+Engineer+Student+and+Dev+Mobile+Android;" alt="Typing SVG" />
     </a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=Tiavina22&color=blueviolet&style=flat-square"/>
 <p> 
     <strong> 🇲🇬 Mbola tsara e! 👋 🇲🇬 </strong> 
 </p>
