@@ -11,9 +11,6 @@
     <li>Passionate about software engineering, mobile dev and aeronautics 🚀😎</li>
     <li>Reach me on 📫 <a href="mailto:tiavinaramilison22@gmail.com">tiavinaramilison22@gmail.com</a> or checkout <a href="https://tiavinaram.vercel.app/"> my portfolio </a></li>
 </ul>
-<div align="center">
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
-</div>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
