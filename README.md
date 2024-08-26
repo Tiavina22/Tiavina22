@@ -13,6 +13,7 @@
 </ul>
 <br>
 <h3 align="left">Langages and Tools</h3>
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"/>
@@ -30,7 +31,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> 
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> 
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/> 
-      <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime_text"/> 
+      <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime_text"/> </p>
     `OS`
     <br>
         <img src="https://camo.githubusercontent.com/6437fb6b9644d40c81a1f1edbe3ed39131f8bc223bd3ca2ecc9ed4025ee9a558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="ubuntu"/>
