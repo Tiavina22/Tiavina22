@@ -28,7 +28,7 @@
 <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/120px-Android_logo_2019_%28stacked%29.svg.png" alt="android" width="40" height="40"/>
-   <img src="https://camo.githubusercontent.com/6437fb6b9644d40c81a1f1edbe3ed39131f8bc223bd3ca2ecc9ed4025ee9a558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="ubuntu" width="40" height="40"/>
+   <img src="https://camo.githubusercontent.com/6437fb6b9644d40c81a1f1edbe3ed39131f8bc223bd3ca2ecc9ed4025ee9a558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="ubuntu"/>
 </p>
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
