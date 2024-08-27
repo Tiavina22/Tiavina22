@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-    <img src="https://camo.githubusercontent.com/950cac8c1a6b54373e14ac1c1edd4d8a5054856850feecf4d6fd9c88ae274f0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465" alt="dart"/> 
+    <img src="https://camo.githubusercontent.com/950cac8c1a6b54373e14ac1c1edd4d8a5054856850feecf4d6fd9c88ae274f0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/> 
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 </p>
 <h6 align="left">Database</h6>
