@@ -28,7 +28,7 @@
 </p>
 <h6 align="left">OS</h6>
 <p>
-    <img src="https://camo.githubusercontent.com/6437fb6b9644d40c81a1f1edbe3ed39131f8bc223bd3ca2ecc9ed4025ee9a558/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d3030383038303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="ubuntu"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
