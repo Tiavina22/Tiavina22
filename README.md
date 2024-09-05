@@ -5,7 +5,7 @@
 </p>
 <img src="https://komarev.com/ghpvc/?username=Tiavina22&color=blueviolet&style=flat-square"/>
 <p> 
-    <strong>Mbola tsara e! 👋, I'm Tiavina 🇲🇬 </strong> and I like  <br> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"/>
+    <strong>Mbola tsara e! 👋, I'm Tiavina 🇲🇬 </strong> and I like <br> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"/>
 </p>
 <ul>
     <li>Passionate about software engineering, mobile dev and aeronautics 🚀😎</li>
