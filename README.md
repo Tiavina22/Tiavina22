@@ -11,7 +11,7 @@
     <li>Reach me on 📫 <a href="mailto:tiavinaramilison22@gmail.com">tiavinaramilison22@gmail.com</a> or checkout <a href="https://tiavinaram.vercel.app/"> my portfolio </a></li>
 </ul>
 <h3 align="left">Langages and Tools</h3>
-<h6 align="left">Langages</h6>
+<!-- <h6 align="left">Langages</h6> -->
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
@@ -19,20 +19,20 @@
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/> 
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 </p>
-<h6 align="left">Database</h6>
+<!-- <h6 align="left">Database</h6> -->
 <p>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresssql"/>
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqflite"/>
 </p>
-<h6 align="left">OS</h6>
+<!-- <h6 align="left">OS</h6> -->
 <p>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
 </p>
-<h6 align="left">Frameworks</h6>
+<!-- <h6 align="left">Frameworks</h6> -->
 <p>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> 
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" /> 
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express js"/>
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
 </p>
-<h6 align="left">Tools & Others</h6>
+<!-- <h6 align="left">Tools & Others</h6> -->
 <p>
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="apache" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> 
@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime_text"/>
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/> 
 </p>
-<h6 align="left">HOSTING</h6>
+<!-- <h6 align="left">HOSTING</h6> -->
 <p>
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> 
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/> 
