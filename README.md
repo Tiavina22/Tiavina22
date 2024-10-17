@@ -1,4 +1,6 @@
+<p align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da,7100:008080&fontColor=dedede&height=160&section=header&text=Tongasoa👋&fontSize=20" />
+    </p>
 <p align="center"> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06FDBD&center=true&random=false&width=760&lines=Software+Engineer+Student+and+Dev+Mobile+Android;" alt="Typing SVG" />
     </a>
@@ -62,6 +64,5 @@
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> 
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/> 
 -->
-</p>
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
