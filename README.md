@@ -2,8 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da,7100:008080&fontColor=dedede&height=160&section=header&text=Tongasoa👋&fontSize=20" />
     </p>
 <p align="center"> 
-    <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20podman%20exec%20-ti%20arch%20akory%20%22Software%20%Engineer2%80%99Student%20%C3%B4%22;Mbarakaly%20%E2%80%99nareo%20%C3%B4&size=18'>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06FDBD&center=true&random=false&width=760&lines=Software+Engineer+Student+and+Dev+Mobile+Android;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06FDBD&center=true&random=false&width=760&lines=Software+Engineer+Student+and+Dev+Mobile+Android;" alt="Typing SVG" />
     </a>
 </p>
 <!-- <p> <strong>Mbola tsara e! kkkkk 👋, I'm Tiavina 🇲🇬 </strong> and I like <br></p> -->
