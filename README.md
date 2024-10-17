@@ -37,13 +37,16 @@
     <!-- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /> -->
 </p>
 <!-- <h6 align="left">Frameworks</h6> -->
+<!--
 <p>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express js"/>
-    <!--  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> -->
+    <!--  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> 
 </p>
+ -->
 <!-- <h6 align="left">Tools & Others</h6> -->
+<!--
 <p>
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="apache" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> 
@@ -54,10 +57,13 @@
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime_text"/>
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/> 
 </p>
-<!-- <h6 align="left">HOSTING</h6> -->
+<!-- <h6 align="left">HOSTING</h6>
+-->
+<!--
 <p>
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> 
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/> 
+-->
 </p>
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
