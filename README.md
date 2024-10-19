@@ -65,7 +65,8 @@
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/> 
 -->
 - 🌱 I’m currently building : <br>
-    - [**Lyrify**](https://lyrica-two.vercel.app)   | Lyrify est une application qui donne vie à votre musique avec des paroles parfaitement synchronisées. Plongez dans un voyage musical unique où chaque chanson révèle son histoire, une parole à la fois. 🚀🎵✨
+    - [**Lyrify**](https://lyrica-two.vercel.app)   | Lyrify is an app that brings your music to life with perfectly synced lyrics. Dive into a unique musical journey where every song reveals its story, one lyric at a time. In addition to featuring lyrics powered by the lrclib library, Lyrica also includes Malagasy songs from the renowned Tononkira collection. Enjoy a rich and authentic experience that combines precise lyric synchronization with the cultural diversity of Malagasy music and currently features 500 lyrics. 🚀🎵✨
+    - [**Matematico**](https://github.com/Tiavina22/matematico)   | This is a plugin for matematics, available integration numeric and matrix functionnality, OpenSource. Build with Nodejs. [Matematico](https://www.npmjs.com/package/matematico)
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06FDBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
   </p>
