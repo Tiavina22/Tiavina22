@@ -64,6 +64,8 @@
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> 
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/> 
 -->
+- 🌱 I’m currently building :
+    - [**Lyrify**](https://lyrica-two.vercel.app)   | Lyrify est une application qui donne vie à votre musique avec des paroles parfaitement synchronisées. Plongez dans un voyage musical unique où chaque chanson révèle son histoire, une parole à la fois. 🚀🎵✨
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06FDBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
   </p>
