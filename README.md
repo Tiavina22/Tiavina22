@@ -68,13 +68,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06FDBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
   </p>
   <!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://ossinsight.io/analyze/Tiavina22">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tiavina22&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" >
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiavina22&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">            
-        </picture>
-    </a>
-</p>
   <!--
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p> -->
