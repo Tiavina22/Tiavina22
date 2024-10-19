@@ -64,11 +64,6 @@
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> 
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/> 
 -->
-- 🌱 I’m currently building : <br>
- - [**Music Player**](https://github.com/tsirysndr/music-player)  ![GitHub stars](https://img.shields.io/github/stars/tsirysndr/music-player.svg?style=social) | An extensible music server written in Rust 🚀🎵✨
-    - [**Rockbox Zig**](https://github.com/tsirysndr/rockbox-zig) | This project brings modern enhancements to the classic [Rockbox](https://www.rockbox.org) firmware, using Zig and Rust for improved performance and maintainability ⚡ 🦀
-    - [**Lyrify**](https://lyrica-two.vercel.app)   | Lyrify is an app that brings your music to life with perfectly synced lyrics. Dive into a unique musical journey where every song reveals its story, one lyric at a time. In addition to featuring lyrics powered by the lrclib library, Lyrica also includes Malagasy songs from the renowned Tononkira collection. Enjoy a rich and authentic experience that combines precise lyric synchronization with the cultural diversity of Malagasy music and currently features 500 lyrics. 🚀🎵✨
-    - [**Matematico**](https://github.com/Tiavina22/matematico)   | This is a plugin for matematics, available integration numeric and matrix functionnality, OpenSource. Build with Nodejs. [Matematico](https://www.npmjs.com/package/matematico)
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06FDBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
   </p>
