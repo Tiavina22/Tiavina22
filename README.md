@@ -14,7 +14,6 @@
 -->
 <!--
 <ul>
-    <li>Passionate about software engineering,mobile dev and aeronautics 🚀😎</li>
     <li>Reach me on 📫 <a href="mailto:tiavinaramilison22@gmail.com">tiavinaramilison22@gmail.com</a> or checkout <a href="https://tiavinaram.vercel.app/"> my portfolio </a></li>
 </ul>
 <h3 align="left">Langages and Tools</h3>
