@@ -17,7 +17,6 @@
     <li>Reach me on 📫 <a href="mailto:tiavinaramilison22@gmail.com">tiavinaramilison22@gmail.com</a> or checkout <a href="https://tiavinaram.vercel.app/"> my portfolio </a></li>
 </ul>
 <h3 align="left">Langages and Tools</h3>
-<!-- <h6 align="left">Langages</h6> -->
 <p align='center'>
     <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> -->
     <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> -->
