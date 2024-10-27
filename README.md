@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=066DBD&center=true&random=false&width=760&lines=Software+Engineer+Student+and+Dev+Mobile+Android;" alt="Typing SVG" />
     </a>
 </p>
+<!-- <p> <strong>Mbola tsara e! kkkkk 👋, I'm Tiavina  </strong> and I like <br></p> -->
 <!-- 
 <p align='center'>Passionate about 
 `software engineering`, `mobile dev` and `aeronautics🚀` </p> -->
