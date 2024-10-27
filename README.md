@@ -5,8 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=066DBD&center=true&random=false&width=760&lines=Software+engineer+student+and+mobile+dev" alt="Typing SVG" />
     </a>
 </p
-<p align='center'>
-    Mbola tsara e 👋, I'm Tiavina 🇲🇬, 📫 <a href="mailto:tiavinaramilison22@gmail.com">tiavinaramilison22@gmail.com</a> </p>
+<p align='center'>📫 <a href="mailto:tiavinaramilison22@gmail.com">tiavinaramilison22@gmail.com</a> </p>
 <!-- 
 <p align='center'>Passionate about 
 `software engineering`, `mobile dev` and `aeronautics🚀` </p> -->
