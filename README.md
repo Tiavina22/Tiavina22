@@ -10,7 +10,7 @@
 -->
 <!--
 <ul>
-<!-- <p> <strong>Mbola tsara e! kkkkk 👋, I'm Tiavina  </strong> and I like <br></p> <li>Reach me on 📫 <a href="mailto:tiavinaramilison22@gmail.com">tiavinaramilison22@gmail.com</a> or checkout <a href="https://tiavinaram.vercel.app/"> my portfolio </a></li>
+<!-- <p> <strong>Mbola tsara e! kkkkk 👋, I'm Tiavina  </strong> and I like <br></p> <li>Reach me on on 📫 <a href="mailto:tiavinaramilison22@gmail.com">tiavinaramilison22@gmail.com</a> or checkout <a href="https://tiavinaram.vercel.app/"> my portfolio </a></li>
 </ul>
 <h3 align="left">Langages and Tools</h3>
     <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> -->
