@@ -14,7 +14,7 @@
 </ul>
 <h3 align="left">Langages and Tools</h3>
     <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> -->
-    <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> -->
+    <!-- on <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> -->
     <!-- https://ileriayo.github.io/markdown-badges/ -->
 <p align='center'>Checkout my portfolio  <a href='https://tiavina.tech'>tiavina.tech</a></p>
 <p align='center'>
