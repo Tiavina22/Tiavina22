@@ -76,6 +76,6 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06FDBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" />
   </p>
-  <!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p> -->
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
   <!-- activity graph heroku-app start -->
  <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p> -->
