@@ -47,7 +47,7 @@
 </p>
 <p align='center>
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize" />
-</p>
+    
 <p align="center">
     <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="duoligno" />
 </p>
