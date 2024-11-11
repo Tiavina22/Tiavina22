@@ -80,6 +80,5 @@
 -->
   <!-- activity graph heroku-app start -->
  <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p> -->
-![Tiavina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiavina22&show_icons=true&theme=blue-dark)
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
  
