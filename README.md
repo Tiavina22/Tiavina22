@@ -17,8 +17,8 @@
     <!-- on <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> -->
     <!-- https://ileriayo.github.io/markdown-badges/ -->
 <p align='center'>Checkout my portfolio  <a href='https://tiavina.tech'>tiavina.tech</a></p>
-## Langages
 <p align='center'>
+    <h1>Langages</h1>
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/> 
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"/>
