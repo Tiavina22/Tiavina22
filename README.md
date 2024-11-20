@@ -69,6 +69,7 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/>
     <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="webstorm" />
     <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="duoligno" />
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 </p>
 <!-- <h6 align="left">Frameworks</h6> -->
 <!--
