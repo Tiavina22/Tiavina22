@@ -109,6 +109,15 @@
   <!-- activity graph heroku-app start -->
  <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p> -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
+
+<!-- Github stats -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FERHATSUMER&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FERHATSUMER&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FERHATSUMER&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FERHATSUMER&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="tglrazaf" /></p>-->
  
