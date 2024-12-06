@@ -106,10 +106,11 @@
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/> 
      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
      <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiavina22&theme=dark&hide_border=false"/></p>
+      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
 -->
   <!-- activity graph heroku-app start -->
  <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p> -->
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Tiavina22&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 <!-- <p align= "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiavina22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p> -->
 
 <!-- Github stats 
