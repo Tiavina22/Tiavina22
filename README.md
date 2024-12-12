@@ -56,4 +56,5 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiavina22&theme=dark&hide_border=false"/></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiavina22&theme=dark&hide_border=false"/></p> -->
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tiavina22&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007"/></p>
