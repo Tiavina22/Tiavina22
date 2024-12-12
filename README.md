@@ -1,70 +1,76 @@
 <div align="center">
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                         TIAVINA'S PROFILE                        ║
+╚══════════════════════════════════════════════════════════════════╝
 
-```
-╔══════════════════════════════════════════╗
-║                                          ║
-║     T I A V I N A ' S   P R O F I L E   ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+                         [ LEVEL 22 DEVELOPER ]
+                    [ SOFTWARE ENGINEERING STUDENT ]
+                      [ MOBILE DEV SPECIALIST ]
 
-![Pixel Art Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=120&section=header&text=Mobile%20Developer&fontSize=30&fontColor=00FF00&animation=twinkling&fontAlign=50&fontAlignY=50&desc=Building%20pixel-perfect%20experiences&descSize=15&descAlign=50&descAlignY=80)
+┌──────────────────────┐
+│    SKILL INVENTORY   │
+└──────────────────────┘
 
-```
-[PLAYER STATS]
-LVL 22 Mobile Developer
-EXP: ■■■■■■■■■□ 90%
-```
+LANGUAGES:
+⚔️ Dart       [█████████░] 90%
+⚔️ TypeScript [████████░░] 80%
+⚔️ JavaScript [████████░░] 80%
+⚔️ Java       [███████░░░] 70%
 
-```
-[EQUIPPED SKILLS]
-⚔️ PRIMARY:     Flutter + Dart
-🛡️ SECONDARY:   React Native + TypeScript
-🔮 SUPPORT:     Node.js + JavaScript
-```
+FRAMEWORKS:
+🛡️ Flutter      [█████████░] 90%
+🛡️ React Native [████████░░] 80%
+🛡️ Node.js      [███████░░░] 70%
 
-```
-[INVENTORY]
-📱 Mobile Dev:  ■■■■■■■■■□ 90%
-🎨 UI/UX:       ■■■■■■■■□□ 80%
-🔧 Backend:     ■■■■■■■□□□ 70%
-```
+DATABASE MASTERY:
+📦 MySQL      [████████░░] 80%
+📦 PostgreSQL [████████░░] 80%
+📦 SQLite     [███████░░░] 70%
+📦 Sequelize  [███████░░░] 70%
 
-```
-[ACHIEVEMENTS UNLOCKED]
-🏆 Database Master
-   MySQL | PostgreSQL | SQLite
-   
-🏆 Battle-Tested Tools
-   Git | VS Code | Android Studio
-   
-🏆 Multi-Platform Warrior
-   Linux | Android | Windows
-```
+┌──────────────────────┐
+│    BATTLE STATIONS   │
+└──────────────────────┘
 
-```
-[CURRENT QUEST LOG]
-➤ Crafting mobile experiences
-➤ Learning new tech spells
-➤ Building awesome projects
-```
+OS PROFICIENCY:
+🖥️ Linux Mint
+🖥️ Ubuntu
+🖥️ Android
+🖥️ Windows
 
-```
-[PLAYER STATS]
-```
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiavina22&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" width="420" />
+WEAPONS OF CHOICE:
+⚡ VS Code
+⚡ Android Studio
+⚡ WebStorm
+⚡ Git & GitHub
 
-```
-[CONTACT PORTAL]
-```
-[![LinkedIn](https://img.shields.io/badge/Join_Party-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+┌──────────────────────┐
+│    QUEST STATS       │
+└──────────────────────┘
 
-```
-[END OF FILE]
-╔══════════════════════════════════════════╗
-║      Press START to view projects        ║
-╚══════════════════════════════════════════╝
-```
+Current Streak: ${YOUR_STREAK_COUNT} days
+Total Commits: ${YOUR_COMMIT_COUNT}
+Repositories: ${YOUR_REPO_COUNT}
 
+┌──────────────────────┐
+│    CONTACT SCROLL    │
+└──────────────────────┘
+
+📜 /in/your-linkedin
+📜 your.email@domain.com
+
+┌──────────────────────┐
+│    ACTIVE QUESTS     │
+└──────────────────────┘
+
+🗺️ Currently working on:
+   ⚔️ Mobile App Development
+   🛡️ UI/UX Design
+   📦 Backend Integration
+
+╔══════════════════════════════════════════════════════════════════╗
+║  Thanks for visiting my profile! Let's build something awesome!   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 </div>
