@@ -58,3 +58,13 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tglRazaf&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiavina22&theme=dark&hide_border=false"/></p>
+<div style="display: flex; flex-direction: row;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/Tiavina22/topics-over-time?theme=dark" width="400" height="auto">
+    <img src="https://stats.quine.sh/Tiavina22/topics-over-time?theme=light" width="400" height="auto"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/Tiavina22/languages-over-time?theme=dark" width="400" height="auto">
+    <img src="https://stats.quine.sh/Tiavina22/languages-over-time?theme=light" width="400" height="auto"/>
+    </picture>
+</div>
