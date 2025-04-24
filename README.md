@@ -7,9 +7,9 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=Tiavina22&theme=transparent" />
-</p>
+</p> -->
 <!--
 <p align='left'>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiavina22&theme=dark&hide_border=false"/></p>
