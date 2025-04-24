@@ -7,7 +7,9 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiavina22&theme=dark&hide_border=false"/></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=Tiavina22&theme=transparent" alt="Tiavina22 Streak" />
+</p>
 <!--
 <p align='left'>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiavina22&theme=dark&hide_border=false"/></p>
