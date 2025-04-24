@@ -8,7 +8,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiavina22&theme=transparent&show_icons=true&locale=en&layout=compact" alt="Tiavina22" /></p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=Tiavina22&theme=transparent" alt="Tiavina22 Streak" />
+<img src="https://streak-stats.demolab.com?user=Tiavina22&theme=transparent" />
 </p>
 <!--
 <p align='left'>
