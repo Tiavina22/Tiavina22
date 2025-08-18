@@ -33,7 +33,7 @@
 ### Projects
 
 #### [Gicode](https://github.com/Tiavina22/gicode)  
-AI-powered Git commit message generator using Gemini.
+AI-powered Git commit message generator using Gemini!
 
 #### [Bupy](https://github.com/Tiavina22/bupy)  
 Open-source CLI for automated PostgreSQL backups.
