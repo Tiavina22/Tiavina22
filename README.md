@@ -32,6 +32,9 @@
 
 ### Projects
 
+#### [Ro](https://laoka.me)  
+Ro helps you discover, plan, and enjoy the best laoka (Malagasy dishes) with ease. From smart meal planning to automatic grocery lists, everything is designed to simplify your everyday cooking the Malagasy way.
+
 #### [Gicode](https://github.com/Tiavina22/gicode)  
 AI-powered Git commit message generator using Gemini!
 
