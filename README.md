@@ -63,13 +63,6 @@ GitHub profile dashboard with clean contribution analytics.
 
 ---
 
-### Links
-
-- [LinkedIn](https://www.linkedin.com/in/tiavina-ramilison/)
-- [Website](https://tiavina-ramilison.vercel.app)
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00D991&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting+my+profile" />
 </p>
